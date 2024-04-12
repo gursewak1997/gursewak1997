@@ -1,4 +1,4 @@
-### Hi there 👋
+### Turning coffee into bugs...and occasionally into code that actually works.
 
 <!--
 **gursewak1997/gursewak1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
