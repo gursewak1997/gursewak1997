@@ -1,5 +1,4 @@
-### Turning coffee into bugs...and occasionally into code that actually works.
-
+### Mastering Fedora CoreOS one container at a time. Always caffeinated, never defeated. 💻☕️
 <!--
 **gursewak1997/gursewak1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
