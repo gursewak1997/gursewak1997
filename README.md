@@ -1,4 +1,4 @@
-### Mastering Fedora CoreOS one container at a time. Always caffeinated, never defeated. 💻☕️
+### Mastering Fedora CoreOS one container at a time:)💻☕️
 <!--
 **gursewak1997/gursewak1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
