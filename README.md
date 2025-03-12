@@ -1,4 +1,4 @@
-### Mastering Fedora CoreOS one container at a time:)💻☕️
+### Wrangling bootc so you don’t have to | Red Hat :)💻☕️
 <!--
 **gursewak1997/gursewak1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
